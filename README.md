@@ -26,9 +26,6 @@ for trading, wallets, automated test suites and backend integrations for EVM bas
 * [History](#history)
 * [License](#license)
 
-![Pepe chooses Web3-Ethereum-DeFi and Python](https://raw.githubusercontent.com/tradingstrategy-ai/web3-ethereum-defi/master/docs/source/_static/pepe.jpg)
-
-**Pepe chooses web3-ethereum-defi and Python**.
 
 # Features
 
